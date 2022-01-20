@@ -1,0 +1,8 @@
+{
+  "name": "Gradska Biblioteka Subotica",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "76d5767d"
+}
